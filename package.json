@@ -35,5 +35,10 @@
     "url": "https://github.com/cazala/synaptic/issues"
   },
   "homepage": "http://synaptic.juancazala.com",
-  "engines" : { "node" : "^0.10.0" }
+  "engines": {
+    "node": "^0.10.0"
+  },
+  "dependencies": {
+    "gulp": "^3.8.11"
+  }
 }
